@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+img {
+    display: block; /* Ensures the image is treated as a block-level element */
+    margin: 20px auto; /* Adds some space around the image and centers it */
+    border: 2px solid black;
+}
